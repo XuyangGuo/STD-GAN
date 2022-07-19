@@ -38,8 +38,6 @@ Dependencies:
 
 Please download [the pre-trained model](https://drive.google.com/drive/folders/1UmOnL38F8KutH30hlNr0X1UOybs0ewZ_?usp=sharing), move it to `./` with the correct path `CtrlHair/model_trained`.
 
-#### Editing with UI directly (recommended)
-
 ```bash
 python test.py -a @AttributesName -t @TargetImagePath -s @SourceImagePath -r @ResultImagePath -c 001
 ```
