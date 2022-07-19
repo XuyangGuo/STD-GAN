@@ -105,4 +105,4 @@ If you use this code for your research, please cite our papers.
 This work also inspires our subsequent work [X. Guo, et al., CtrlHair (ECCV2022)](https://github.com/XuyangGuo/CtrlHair) for controllable hair editing.
 
 ## References & Acknowledgments
-- [LynnHo / EigenGAN](https://github.com/LynnHo/EigenGAN-Tensorflow)
+- [LynnHo / AttGAN](https://github.com/LynnHo/AttGAN-Tensorflow)
