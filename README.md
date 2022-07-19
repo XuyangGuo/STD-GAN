@@ -92,7 +92,7 @@ If you use this code for your research, please cite our papers.
 @article{guo2021image,
   title={Image style disentangling for instance-level facial attribute transfer},
   author={Guo, Xuyang and Kan, Meina and He, Zhenliang and Song, Xingguang and Shan, Shiguang},
-  journal={Computer Vision and Image Understanding (CVIU)},
+  journal={Computer Vision and Image Understanding},
   volume={207},
   pages={103205},
   year={2021},
