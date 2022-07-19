@@ -1,20 +1,20 @@
-# [Image Style Disentangling for Instance-level Facial Attribute Transfer (CVIU 2021)](https://github.com/XuyangGuo/xuyangguo.github.io/raw/main/database/STD-GAN/STD-GAN.pdf)
+# [Image Style Disentangling for Instance-level Facial Attribute Transfer (CVIU 2021)](https://github.com/XuyangGuo/xuyangguo.github.io/raw/master/database/STD-GAN/STD-GAN.pdf)
 
 [Xuyang Guo](https://xuyangguo.github.io/), [Meina Kan](http://vipl.ict.ac.cn/homepage/mnkan/Publication/), [Zhenliang He](https://lynnho.github.io/), Xingguang Song, [Shiguang Shan](https://scholar.google.com/citations?user=Vkzd7MIAAAAJ)
 
-![TransferShow](https://raw.githubusercontent.com/XuyangGuo/xuyangguo.github.io/main/database/STD-GAN/resources/transfer.png)
+![TransferShow](https://raw.githubusercontent.com/XuyangGuo/xuyangguo.github.io/master/database/STD-GAN/resources/transfer.png)
 
-![TransferBangs](https://raw.githubusercontent.com/XuyangGuo/xuyangguo.github.io/main/database/STD-GAN/resources/transfer_bangs.png)
+![TransferBangs](https://raw.githubusercontent.com/XuyangGuo/xuyangguo.github.io/master/database/STD-GAN/resources/transfer_bangs.png)
 
-![TransferEyeclasses](https://raw.githubusercontent.com/XuyangGuo/xuyangguo.github.io/main/database/STD-GAN/resources/transfer_eyeglasses.png)
+![TransferEyeclasses](https://raw.githubusercontent.com/XuyangGuo/xuyangguo.github.io/master/database/STD-GAN/resources/transfer_eyeglasses.png)
 
-![TransferMultiAttributes](https://raw.githubusercontent.com/XuyangGuo/xuyangguo.github.io/main/database/STD-GAN/resources/transfer_multi.png)
+![TransferMultiAttributes](https://raw.githubusercontent.com/XuyangGuo/xuyangguo.github.io/master/database/STD-GAN/resources/transfer_multi.png)
 
 ## Abstract
 
 > Instance-level facial attribute transfer aims at transferring an attribute including its style from a source face to a target one. Existing studies have limitations on fidelity or correctness. To address this problem, we propose a weakly supervised style disentangling method embedded in Generative Adversarial Network (GAN) for accurate instance-level attribute transfer, using only binary attribute annotations. In our method, the whole attributes transfer process is designed as two steps for easier transfer, which first removes the original attribute or transfers it to a neutral state and then adds the attributes style disentangled from a source face. Moreover, a style disentangling module is proposed to extract the attribute style of an image used in the adding step. Our method aims for accurate attribute style transfer. However, it is also capable of semantic attribute editing as a special case, which is not achievable with existing instance-level attribute transfer methods. Comprehensive experiments on CelebA Dataset show that our method can transfer the style more precisely than existing methods, with an improvement of 39\% in user study, 16.5\% in accuracy, and about 3.3 in FID.
 
-![archi](https://raw.githubusercontent.com/XuyangGuo/xuyangguo.github.io/main/database/STD-GAN/resources/architecture.png)
+![archi](https://raw.githubusercontent.com/XuyangGuo/xuyangguo.github.io/master/database/STD-GAN/resources/architecture.png)
 
 ## Installation
 
